@@ -121,10 +121,10 @@ export default function AdvertisePage() {
         <p className="text-sm text-slate-700">
           To get started or ask questions, contact us at{" "}
           <a
-            href="mailto:support@familydoctordirectories.com"
+            href="mailto:hello@directoriesnetwork.com"
             className="font-medium text-teal underline underline-offset-2 hover:text-teal-soft"
           >
-            support@familydoctordirectories.com
+            hello@directoriesnetwork.com
           </a>{" "}
           — we&apos;ll have your listing live within 24 hours.
         </p>
